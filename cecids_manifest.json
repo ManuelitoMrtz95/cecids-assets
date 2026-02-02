@@ -1,6 +1,6 @@
 {
   "page1Bg": "page1.png",
   "page2Bg": "page2.png",
-  "fontRegular": "HelveticaNeueRegular.otf",
-  "fontBold": "HelveticaNeueBold.otf"
+  "fontRegular": "HelveticaNeueRegular.ttf",
+  "fontBold": "HelveticaNeueBold.ttf"
 }
